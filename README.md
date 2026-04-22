@@ -208,9 +208,7 @@ Current priorities:
 - Industry patterns: caching, concurrency control, observability, and scalability.
 - Long-term architecture: event-driven patterns and microservice decomposition guide.
 
-## Demo
 
-demo video: https://youtu.be/c6WWdINWSlI
 
 ## ⭐ Support This Project
 
